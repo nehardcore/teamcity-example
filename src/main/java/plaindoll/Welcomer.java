@@ -14,6 +14,6 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String sayHunter() {
-		return "random phrase contains the word hunter"
+		return "random phrase contains the word hunter";
 	}
 }
